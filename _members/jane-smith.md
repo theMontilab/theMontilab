@@ -5,7 +5,7 @@ role: principal-investigator
 affiliation: University of Melbourne, School of Chemistry
 
 links:
-  home-page: https://janesmith.com](https://findanexpert.unimelb.edu.au/profile/1063781-ludovica-monti
+  home-page: https://findanexpert.unimelb.edu.au/profile/1063781-ludovica-monti
   orcid: 0000-0001-8468-8073
 ---
 
