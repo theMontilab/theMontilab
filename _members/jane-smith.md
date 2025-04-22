@@ -1,7 +1,7 @@
 ---
 name: Dr. Ludovica Monti
 image: images/Ludovica_Monti.jpg
-role: principal-investigator
+role: Principal-Investigator
 affiliation: University of Melbourne, School of Chemistry
 
 links:
@@ -17,8 +17,7 @@ links:
 - *Lecturer & Laboratory Head*<br/>
 **The University of Melbourne**<br/> 
 *Head, Innovative Chemical Genomics and Drug Optimisation Lab*<br/>
-School of Chemistry<br/>
-Bio21 Molecular Science & Biotechnology Institute<br/>
+School of Chemistry & Bio21 Molecular Science & Biotechnology Institute<br/>
 Discovery Programs: *Infection*; and *DNA-therapeutics, Drug development, and Host-pathogen interactions*
 
 
