@@ -2,18 +2,17 @@
 title: The Monti lab
 subtitle: Innovation in Chemical Genomics & Drug Optimisation
 description: We investigate host–pathogen interactions using innovative chemical biology approaches to advance therapies against infectious diseases.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/front_page.jpg
+footer: images/front_page.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@theMontilab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: theMontilab
-  twitter: theMontilab
-  youtube: theMontilab
+  email: ludovica.monti@unimelb.edu.au
+  orcid: 0000-0001-8468-8073
+  google-scholar: citations?hl=en&user=u_DNOowAAAAJ
+  twitter: @LudovicaMonti
+  LinkedIn: Ludovica Monti
 
 ### jekyll settings
 
