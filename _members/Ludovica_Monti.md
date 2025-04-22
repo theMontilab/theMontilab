@@ -2,7 +2,7 @@
 name: Dr. Ludovica Monti
 image: images/Ludovica_Monti.jpg
 role: Principal-Investigator
-affiliation: University of Melbourne, School of Chemistry
+affiliation: the University of Melbourne, School of Chemistry
 
 links:
   home-page: https://findanexpert.unimelb.edu.au/profile/1063781-ludovica-monti
