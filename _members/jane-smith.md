@@ -1,20 +1,28 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Dr. Ludovica Monti
+image: images/Ludovica_Monti.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: University of Melbourne, School of Chemistry
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://janesmith.com](https://findanexpert.unimelb.edu.au/profile/1063781-ludovica-monti
+  orcid: 0000-0001-8468-8073
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+
+
+
+### Affiliations
+
+- *Lecturer & Laboratory Head*<br/>
+**The University of Melbourne**<br/> 
+*Head, Innovative Chemical Genomics and Drug Optimisation Lab*<br/>
+School of Chemistry<br/>
+Bio21 Molecular Science & Biotechnology Institute<br/>
+Discovery Programs: *Infection*; and *DNA-therapeutics, Drug development, and Host-pathogen interactions*
+
+
+- *Affilited Member*<br/>
+**Center for Discovery and Innovation in Parasitic Diseases**<br/>
+*University of California San Diego*,<br/>
+at the Skaggs School of Pharmacy and Pharmaceutical Sciences
