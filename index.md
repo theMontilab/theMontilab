@@ -1,9 +1,7 @@
 ---
 ---
 
-# The Monti lab
-
-Laboratory of innovation in chemical genomics & drug optimisation.
+We investigate host–pathogen interactions using innovative chemical biology approaches to advance therapies against infectious diseases.
 
 {% include section.html %}
 
