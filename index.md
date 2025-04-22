@@ -1,9 +1,9 @@
 ---
 ---
 
-# theMontilab's Website
+# The Monti lab
 
-An engaging 1-3 sentence description of your lab.
+Laboratory of innovation in chemical genomics & drug optimisation.
 
 {% include section.html %}
 
