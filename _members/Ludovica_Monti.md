@@ -33,7 +33,6 @@ In 2024, Ludovica established her independent lab at the University of Melbourne
 - *Lecturer & Laboratory Head*<br/>
 **The University of Melbourne**<br/>
 *Chair of Diversity & Inclusion*<br/>
-*Head, Innovative Chemical Genomics and Drug Optimisation Lab*<br/>
 School of Chemistry & Bio21 Molecular Science & Biotechnology Institute<br/>
 Discovery Programs: *Infection, DNA-therapeutics, Drug development, and Host-pathogen interactions*
 
