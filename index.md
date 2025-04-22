@@ -5,7 +5,6 @@ We investigate host–pathogen interactions using innovative chemical biology ap
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
