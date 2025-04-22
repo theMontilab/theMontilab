@@ -18,7 +18,7 @@ links:
 **The University of Melbourne**<br/> 
 *Head, Innovative Chemical Genomics and Drug Optimisation Lab*<br/>
 School of Chemistry & Bio21 Molecular Science & Biotechnology Institute<br/>
-Discovery Programs: *Infection*; and *DNA-therapeutics, Drug development, and Host-pathogen interactions*
+Discovery Programs: *Infection, DNA-therapeutics, Drug development, and Host-pathogen interactions*
 
 
 - *Affilited Member*<br/>
