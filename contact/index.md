@@ -14,20 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="ludovica.monti@unimelb.edu.au"
+  link="ludovica.monti@unimelb.edu.au"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Bio+21+Incubator/data=!4m2!3m1!1s0x0:0xcbf2e7ebf91461ef?sa=X&ved=1t:2428&ictx=111)"
 %}
 
 {% include section.html %}
