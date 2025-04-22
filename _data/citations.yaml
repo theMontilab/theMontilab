@@ -1,174 +1,426 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: pmid:37429821
+  title: Structure-Activity Relationships, Tolerability and Efficacy of Microtubule-Active
+    1,2,4-Triazolo[1,5-a]pyrimidines as Potential Candidates to Treat Human African
+    Trypanosomiasis.
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ludovica Monti
+  - Lawrence J Liu
+  - Carmine Varricchio
+  - Bobby Lucero
+  - Thibault Alle
+  - Wenqian Yang
+  - Ido Bem-Shalom
+  - Michael Gilson
+  - Kurt R Brunden
+  - Andrea Brancale
+  - Conor R Caffrey
+  - Carlo Ballatore
+  publisher: ChemMedChem
+  date: '2023-07-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37429821
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: pmid:37146230
+  title: G-Quadruplexes as Key Transcriptional Regulators in Neglected Trypanosomatid
+    Parasites.
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ludovica Monti
+  - Marco Di Antonio
+  publisher: 'Chembiochem : a European journal of chemical biology'
+  date: '2023-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37146230
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.bmcl.2023.129123
+  title: Structure-activity relationship of dibenzylideneacetone analogs against the
+    neglected disease pathogen, Trypanosoma brucei
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Karol R. Francisco
+  - Ludovica Monti
+  - Wenqian Yang
+  - Hayoung Park
+  - Lawrence J. Liu
+  - Kaitlyn Watkins
+  - Dilini K. Amarasinghe
+  - Marianna Nalli
+  - Carlos Roberto Polaquini
+  - Luis O. Regasini
+  - "Ant\xF4nio Eduardo Miller Crotti"
+  - Romano Silvestri
+  - "Lizandra Guidi Magalh\xE3es"
+  - Conor R. Caffrey
+  publisher: Bioorganic &amp; Medicinal Chemistry Letters
+  date: '2023-02-01'
+  link: https://doi.org/g9f8hb
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.ejmech.2022.114876
+  title: 'From rational design to serendipity: Discovery of novel thiosemicarbazones
+    as potent trypanocidal compounds'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Saulo Fehelberg Pinto Braga
+  - "Viviane Corr\xEAa Santos"
+  - Rafael Pinto Vieira
+  - Elany Barbosa da Silva
+  - Ludovica Monti
+  - Susann H. Krake
+  - Pablo D.G. Martinez
+  - Luiz Carlos Dias
+  - Conor R. Caffrey
+  - Jair L. Siqueira-Neto
+  - Renata Barbosa de Oliveira
+  - Rafaela Salgado Ferreira
+  publisher: European Journal of Medicinal Chemistry
+  date: '2022-12-01'
+  link: https://doi.org/g9f8hc
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: pmid:36140833
+  title: G-quadruplexes Mark Sites of Methylation Instability Associated with Ageing
+    and Cancer.
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Jonas Rauchhaus
+  - Jenna Robinson
+  - Ludovica Monti
+  - Marco Di Antonio
+  publisher: Genes
+  date: '2022-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36140833
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1039/d2cc04872h
+  title: 'Long-range DNA interactions: inter-molecular G-quadruplexes and their potential
+    biological relevance'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Denise Liano
+  - Ludovica Monti
+  - Souroprobho Chowdhury
+  - Federica Raguseo
+  - Marco Di Antonio
+  publisher: Chemical Communications
+  date: '2022-01-01'
+  link: https://doi.org/g9f8hd
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.13133/9788893772426
+  title: Tubulin and Microtubules as Drug Targets for Potential Cancer Chemotherapy
+    and CNS-Directed Therapies
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Ludovica Monti
+  publisher: "Sapienza Universit\xE0 Editrice"
+  date: '2022-01-01'
+  link: https://doi.org/g9f8hf
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34461718
+  title: Structure-Based Optimization of Quinazolines as Cruzain and
+  authors:
+  - Elany Barbosa da Silva
+  - "D\xE9bora A Rocha"
+  - Isadora S Fortes
+  - Wenqian Yang
+  - Ludovica Monti
+  - Jair L Siqueira-Neto
+  - Conor R Caffrey
+  - James McKerrow
+  - Saulo F Andrade
+  - Rafaela S Ferreira
+  publisher: Journal of medicinal chemistry
+  date: '2021-08-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34461718
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/0471266949.bmc235.pub2
+  title: Drug Discovery and Development for Kinetoplastid Diseases
+  authors:
+  - Conor R. Caffrey
+  - Dietmar Steverding
+  - Rafaela S. Ferreira
+  - Renata B. de Oliveira
+  - Anthony J. O'Donoghue
+  - Ludovica Monti
+  - Carlo Ballatore
+  - Kelly A. Bachovchin
+  - Lori Ferrins
+  - Michael P. Pollastri
+  - Kimberley M. Zorn
+  - Daniel H. Foil
+  - Alex M. Clark
+  - Melina Mottin
+  - Carolina H. Andrade
+  - "Jair L. de Siqueira\u2010Neto"
+  - Sean Ekins
+  publisher: Burger's Medicinal Chemistry and Drug Discovery
+  date: '2021-04-26'
+  link: https://doi.org/g9f8hg
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33411523
+  title: Evaluation of the Structure-Activity Relationship of Microtubule-Targeting
+    1,2,4-Triazolo[1,5-
+  authors:
+  - Killian Oukoloff
+  - Goodwell Nzou
+  - Carmine Varricchio
+  - Bobby Lucero
+  - Thibault Alle
+  - Jane Kovalevich
+  - Ludovica Monti
+  - Anne-Sophie Cornec
+  - Yuemang Yao
+  - Michael J James
+  - John Q Trojanowski
+  - Virginia M-Y Lee
+  - Amos B Smith
+  - Andrea Brancale
+  - Kurt R Brunden
+  - Carlo Ballatore
+  publisher: Journal of medicinal chemistry
+  date: '2021-01-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33411523
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33135408
+  title: Congeners Derived from Microtubule-Active Phenylpyrimidines Produce a Potent
+    and Long-Lasting Paralysis of
+  authors:
+  - Ludovica Monti
+  - Anne-Sophie Cornec
+  - Killian Oukoloff
+  - Jane Kovalevich
+  - Kristen Prijs
+  - Thibault Alle
+  - Kurt R Brunden
+  - Amos B Smith
+  - Nelly El-Sakkary
+  - Lawrence J Liu
+  - Ali Syed
+  - Danielle E Skinner
+  - Carlo Ballatore
+  - Conor R Caffrey
+  publisher: ACS infectious diseases
+  date: '2020-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33135408
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32196500
+  title: Identification of anisomycin, prodigiosin and obatoclax as compounds with
+    broad-spectrum anti-parasitic activity.
+  authors:
+  - Gretchen Ehrenkaufer
+  - Pengyang Li
+  - Erin E Stebbins
+  - Monica M Kangussu-Marcolino
+  - Anjan Debnath
+  - Corin V White
+  - Matthew S Moser
+  - Joseph DeRisi
+  - Jolyn Gisselberg
+  - Ellen Yeh
+  - Steven C Wang
+  - Ana Hervella Company
+  - Ludovica Monti
+  - Conor R Caffrey
+  - Christopher D Huston
+  - Bo Wang
+  - Upinder Singh
+  publisher: PLoS neglected tropical diseases
+  date: '2020-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32196500
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29969537
+  title: Brain-Penetrant Triazolopyrimidine and Phenylpyrimidine Microtubule Stabilizers
+    as Potential Leads to Treat Human African Trypanosomiasis.
+  authors:
+  - Ludovica Monti
+  - Steven C Wang
+  - Killian Oukoloff
+  - Amos B Smith
+  - Kurt R Brunden
+  - Conor R Caffrey
+  - Carlo Ballatore
+  publisher: ChemMedChem
+  date: '2018-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29969537
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28835803
+  title: Evaluation of Oxetan-3-ol, Thietan-3-ol, and Derivatives Thereof as Bioisosteres
+    of the Carboxylic Acid Functional Group.
+  authors:
+  - Pierrik Lassalas
+  - Killian Oukoloff
+  - Vishruti Makani
+  - Michael James
+  - Van Tran
+  - Yuemang Yao
+  - Longchuan Huang
+  - Krishna Vijayendran
+  - Ludovica Monti
+  - John Q Trojanowski
+  - Virginia M-Y Lee
+  - Marisa C Kozlowski
+  - Amos B Smith
+  - Kurt R Brunden
+  - Carlo Ballatore
+  publisher: ACS medicinal chemistry letters
+  date: '2017-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28835803
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28530811
+  title: 'Multitargeted Imidazoles: Potential Therapeutic Leads for Alzheimer''s and
+    Other Neurodegenerative Diseases.'
+  authors:
+  - Anne-Sophie Cornec
+  - Ludovica Monti
+  - Jane Kovalevich
+  - Vishruti Makani
+  - Michael J James
+  - Krishna G Vijayendran
+  - Killian Oukoloff
+  - Yuemang Yao
+  - Virginia M-Y Lee
+  - John Q Trojanowski
+  - Amos B Smith
+  - Kurt R Brunden
+  - Carlo Ballatore
+  publisher: Journal of medicinal chemistry
+  date: '2017-06-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28530811
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27063555
+  title: Evaluation of the analgesic effect of 4-anilidopiperidine scaffold containing
+    ureas and carbamates.
+  authors:
+  - Ludovica Monti
+  - Azzurra Stefanucci
+  - Stefano Pieretti
+  - Francesca Marzoli
+  - Lorenzo Fidanza
+  - Adriano Mollica
+  - Sako Mirzaie
+  - Simone Carradori
+  - Luciano De Petrocellis
+  - Aniello Schiano Moriello
+  - "S\xE1ndor Benyhe"
+  - "Ferenc Z\xE1dor"
+  - "Edina Sz\u0171cs"
+  - "Ferenc \xD6tv\xF6s"
+  - Anna I Erdei
+  - Reza Samavati
+  - "Szabolcs Dvor\xE1csk\xF3"
+  - "Csaba T\xF6mb\xF6ly"
+  - Ettore Novellino
+  publisher: Journal of enzyme inhibition and medicinal chemistry
+  date: '2016-04-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27063555
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26850005
+  title: Arylboronic acids as dual-action FAAH and TRPV1 ligands.
+  authors:
+  - Enrico Morera
+  - Vincenzo Di Marzo
+  - Ludovica Monti
+  - "Marco Allar\xE0"
+  - Aniello Schiano Moriello
+  - Marianna Nalli
+  - Giorgio Ortar
+  - Luciano De Petrocellis
+  publisher: Bioorganic & medicinal chemistry letters
+  date: '2016-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26850005
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26497049
+  title: Discovery of 1,1'-Biphenyl-4-sulfonamides as a New Class of Potent and Selective
+    Carbonic Anhydrase XIV Inhibitors.
+  authors:
+  - Giuseppe La Regina
+  - Antonio Coluccia
+  - Valeria Famiglini
+  - Sveva Pelliccia
+  - Ludovica Monti
+  - Daniela Vullo
+  - Elisa Nuti
+  - Vincenzo Alterio
+  - Giuseppina De Simone
+  - Simona Maria Monti
+  - Peiwen Pan
+  - Seppo Parkkila
+  - Claudiu T Supuran
+  - Armando Rossello
+  - Romano Silvestri
+  publisher: Journal of medicinal chemistry
+  date: '2015-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26497049
+  orcid: 0000-0001-8468-8073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26132075
+  title: New Indole Tubulin Assembly Inhibitors Cause Stable Arrest of Mitotic Progression,
+    Enhanced Stimulation of Natural Killer Cell Cytotoxic Activity, and Repression
+    of Hedgehog-Dependent Cancer.
+  authors:
+  - Giuseppe La Regina
+  - Ruoli Bai
+  - Antonio Coluccia
+  - Valeria Famiglini
+  - Sveva Pelliccia
+  - Sara Passacantilli
+  - Carmela Mazzoccoli
+  - Vitalba Ruggieri
+  - Annalisa Verrico
+  - Andrea Miele
+  - Ludovica Monti
+  - Marianna Nalli
+  - Romina Alfonsi
+  - Lucia Di Marcotullio
+  - Alberto Gulino
+  - Biancamaria Ricci
+  - Alessandra Soriani
+  - Angela Santoni
+  - Michele Caraglia
+  - Stefania Porto
+  - Eleonora Da Pozzo
+  - Claudia Martini
+  - Andrea Brancale
+  - Luciana Marinelli
+  - Ettore Novellino
+  - Stefania Vultaggio
+  - Mario Varasi
+  - Ciro Mercurio
+  - Chiara Bigogno
+  - Giulio Dondio
+  - Ernest Hamel
+  - Patrizia Lavia
+  - Romano Silvestri
+  publisher: Journal of medicinal chemistry
+  date: '2015-07-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26132075
+  orcid: 0000-0001-8468-8073
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +436,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +452,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
