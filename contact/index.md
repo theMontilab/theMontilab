@@ -21,7 +21,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/Bio+21+Incubator/data=!4m2!3m1!1s0x0:0xcbf2e7ebf91461ef?sa=X&ved=1t:2428&ictx=111)"
+  link="https://www.google.com/maps/place/Bio+21+Incubator/data=!4m2!3m1!1s0x0:0xcbf2e7ebf91461ef?sa=X&ved=1t:2428&ictx=111"
 %}
 
 {% include section.html %}
