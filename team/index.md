@@ -9,7 +9,7 @@ nav:
 
 We are committed to fostering a diverse, equitable, and inclusive environment that supports research training and empowers scientists at all career stages to thrive and contribute their unique perspectives.
 
-If you are interested in joining our team, [please get in touch](https://theMontilab.github.io/contact/) with a CV and cover letter explaining your interests in our research so as to initiate a conversation regarding potential opportunities.
+If you are interested in joining our team, [please get in touch](https://themontilab.github.io/theMontilab/contact/) with a CV and cover letter explaining your interests in our research so as to initiate a conversation regarding potential opportunities.
 
 {% include section.html %}
 
