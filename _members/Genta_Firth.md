@@ -2,6 +2,7 @@
 name: Genta Firth
 image: images/photo.jpg
 role: MSc student
+description: Undergraduate Student
 affiliation: the University of Melbourne, School of Chemistry
 
 ---
