@@ -3,6 +3,7 @@
 
 We investigate host–pathogen interactions using innovative chemical biology approaches to advance therapies against infectious diseases.
 
+
 {% include section.html %}
 
 
@@ -31,32 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are committed to fostering a diverse, equitable, and inclusive environment that supports research training and empowers scientists at all career stages to thrive and contribute their unique perspectives.
 
 {%
   include button.html
