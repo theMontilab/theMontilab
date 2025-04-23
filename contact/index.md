@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory is based in the [Bio21 Molecular Science & Biotechnology Institute](https://www.bio21.unimelb.edu.au) affiliated with the [School of Chemistry](https://chemistry.unimelb.edu.au) at [the University of Melbourne](https://www.unimelb.edu.au)
 
 {%
   include button.html
@@ -21,7 +19,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Bio+21+Incubator/data=!4m2!3m1!1s0x0:0xcbf2e7ebf91461ef?sa=X&ved=1t:2428&ictx=111"
+  link="https://maps.app.goo.gl/tmYAaPcnNkJCtULH7"
 %}
 
 {% include section.html %}
