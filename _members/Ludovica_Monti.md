@@ -3,7 +3,6 @@ name: Dr. Ludovica Monti
 image: images/Ludovica_Monti.jpg
 role: Principal-Investigator
 description: Principal Investigator
-affiliation: the University of Melbourne, School of Chemistry
 
 links:
   home-page: https://findanexpert.unimelb.edu.au/profile/1063781-ludovica-monti
@@ -14,7 +13,7 @@ links:
 
 Ludovica is an expert in **medicinal chemistry, drug discovery, and nucleic acid biology,** with over a decade of experience across leading institutions in Italy, USA, UK, and Australia. Her research bridges chemistry and biology to develop new therapeutic strategies against infectious diseases.
 
-Ludovica earned a BSc and Master’s in Pharmacy (2014) and PhD in Life Sciences (2018) from Sapienza University of Rome (Italy). She conducted half od her PhD studies in the USA, where she trained as a medicinal chemist in the laboratories of [*Prof. Amos B. Smith*](https://web.sas.upenn.edu/smithgroup/people-2/amos-b-smith-iii/) at the *University of Pennsylvania*, and [*Prof. Carlo Ballatore*](https://pharmacy.ucsd.edu/faculty/ballatore) at the *University of California San Diego (UCSD)*. Her PhD work discovered new treatments for *cancer, Alzheimer's disease, and neglected tropical diseases*, received multiple awards, including:.
+Ludovica earned a BSc and Master’s degree in Pharmacy (2014) and PhD in Life Sciences (2018) from Sapienza University of Rome (Italy). She conducted half od her PhD studies in the USA, where she trained as a medicinal chemist in the laboratories of [*Prof. Amos B. Smith*](https://web.sas.upenn.edu/smithgroup/people-2/amos-b-smith-iii/) at the *University of Pennsylvania*, and [*Prof. Carlo Ballatore*](https://pharmacy.ucsd.edu/faculty/ballatore) at the *University of California San Diego (UCSD)*. Her PhD work discovered new treatments for *cancer, Alzheimer's disease, and neglected tropical diseases*, received multiple awards, including:.
 
 - **Minerva Award**, *Sapienza University* (Italy) – for excellence in drug discovery research
 - **Young Investigator Scholarshi**p, *Alzheimer’s Drug Discovery Foundation* (USA) – for her work on multitarget imidazole-based therapeutics
