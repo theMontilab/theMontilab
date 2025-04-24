@@ -3,7 +3,7 @@ name: Lingxiao Long
 image: images/photo.jpg
 role: MSc student
 description: Msc Student
-Keywords: *DNA-targeted drug, G-quadruplex, biophysical characterization*
+keywords: *DNA-targeted drug, G-quadruplex, biophysical characterization*
 
 ---
 
