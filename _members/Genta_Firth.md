@@ -1,8 +1,9 @@
 ---
 name: Genta Firth
-image: Genta_Firth.jpg
+image: images/Genta_Firth.jpg
 role: MSc student
 description: MSc Student
+affiliation: the University of Melbourne, School of Chemistry
 
 ---
 
