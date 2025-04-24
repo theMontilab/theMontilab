@@ -3,7 +3,7 @@ name: Genta Firth
 image: images/photo.jpg
 role: MSc student
 description: MSc Student
-Keywords: *Bioinformatics, drug discovery, genome analysis*
+keywords: *Bioinformatics, drug discovery, genome analysis*
 
 ---
 
