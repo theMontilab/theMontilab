@@ -13,10 +13,12 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+  keywords: *Bioinformatics, drug discovery, genome analysis*
 
 MSc:
   icon: fa-solid fa-graduation-cap
   description: MSc Student
+  keywords: *Bioinformatics, drug discovery, genome analysis*
 
 undergrad:
   icon: fa-solid fa-user-graduate
