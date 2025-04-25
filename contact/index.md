@@ -38,7 +38,7 @@ Our laboratory is based in the [Bio21 Molecular Science & Biotechnology Institut
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   caption="Lorem ipsum"
 %}
 
