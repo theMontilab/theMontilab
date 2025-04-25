@@ -3,7 +3,6 @@ name: Lingxiao Long
 image: images/Lingxiao_Long.jpg
 role: MSc student
 description: Msc Student
-affiliation: the University of Melbourne, School of Chemistry
 
 ---
 
