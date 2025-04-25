@@ -2,6 +2,7 @@
 name: Minghui Zhu
 image: images/Minghui_Zhu.jpg 
 role: PhD student
+description: PhD Student
 
 ---
 
