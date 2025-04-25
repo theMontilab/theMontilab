@@ -1,9 +1,9 @@
 ---
-name: **Lingxiao Long**
+name: Lingxiao Long
 image: images/Lingxiao_Long.jpg
 role: MSc student
 description: Msc Student
-affiliation: *DNA-targeted drug, G-quadruplex, biophysical characterization*
+affiliation: DNA-targeted drug, G-quadruplex, biophysical characterization
 
 ---
 
