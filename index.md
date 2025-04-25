@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pills.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ We are committed to fostering a diverse, equitable, and inclusive environment th
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab2.jpg"
   link="team"
   title="Our Team"
   text=text
