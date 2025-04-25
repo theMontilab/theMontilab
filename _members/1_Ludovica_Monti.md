@@ -1,5 +1,5 @@
 ---
-name: **Dr. Ludovica Monti**
+name: Dr. Ludovica Monti
 image: images/Ludovica_Monti.jpg
 role: Principal-Investigator
 description: Principal Investigator
