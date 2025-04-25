@@ -3,7 +3,6 @@ name: Catur Kurniawan
 image: images/photo.jpg
 role: MSc student
 description: MSc Student
-affiliation: the University of Melbourne, School of Chemistry
 
 ---
 
