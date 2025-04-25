@@ -1,9 +1,9 @@
 ---
-name: Genta Firth
+name: **Genta Firth**
 image: images/Genta_Firth.jpg
 role: MSc student
 description: MSc Student
-affiliation: *Bioinformatics, drug discovery, genome analysis*
+affiliation: Bioinformatics, drug discovery, genome analysis
 
 ---
 
