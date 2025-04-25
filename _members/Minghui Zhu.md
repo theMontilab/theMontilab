@@ -2,7 +2,6 @@
 name: Minghui Zhu
 image: images/Minghui_Zhu.jpg 
 role: PhD student
-affiliation: the University of Melbourne, School of Chemistry
 
 ---
 
