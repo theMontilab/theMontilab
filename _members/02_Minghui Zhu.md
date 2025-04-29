@@ -1,7 +1,7 @@
 ---
 name: Minghui Zhu
 image: images/Minghui_Zhu.jpg 
-role: PhD student
+role: phd
 description: PhD Student
 
 ---
