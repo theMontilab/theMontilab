@@ -1,7 +1,7 @@
 ---
 name: Lingxiao Long
 image: images/Lingxiao_Long.jpg
-role: MSc student
+role: MSc
 description: Msc Student
 affiliation: DNA-targeted drug, G-quadruplex, biophysical characterization
 
