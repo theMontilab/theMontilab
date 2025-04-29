@@ -1,8 +1,7 @@
 ---
 name: Paolo Gagliardi
 image: images/photo.jpg
-role: PhD student
-role: Graduate Student
+role: phd
 description: PhD Student
 
 ---
