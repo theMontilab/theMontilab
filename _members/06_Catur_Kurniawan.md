@@ -1,7 +1,7 @@
 ---
 name: Catur Kurniawan
 image: images/photo.jpg
-role: MSc student
+role: MSc
 description: MSc Student
 
 ---
