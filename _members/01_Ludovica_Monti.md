@@ -1,6 +1,6 @@
 ---
 name: Dr. Ludovica Monti
-image: images/Ludovica_Monti.jpg
+image: images/Ludovica_Monti2.jpg
 role: principal-investigator
 description: Principal Investigator
 affiliation: the University of Melbourne
